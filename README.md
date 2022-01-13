@@ -11,4 +11,7 @@ While this is not necessary and not the purpose of this repository, a `requireme
 `Results.ipynb`.
 
 ### Simplified Result Overview
-If you are interested in the result of the experiment please take the time to look into the full experiments in `Results.ipynb`. Below is a simplified version of some of the API-Performancetests conducted on the two IBM Cloud offerings.<img width="976" alt="Screenshot 2022-01-13 at 23 41 52" src="https://user-images.githubusercontent.com/62757957/149420653-11a87302-2576-4939-be56-1784497aa9c6.png">
+If you are interested in the result of the experiment please take the time to look into the full experiments in `Results.ipynb`. Below is a simplified version of some of the API-Performancetests conducted on the two IBM Cloud offerings.
+
+
+<img width="976" alt="Screenshot 2022-01-13 at 23 41 52" src="https://user-images.githubusercontent.com/62757957/149420653-11a87302-2576-4939-be56-1784497aa9c6.png">
