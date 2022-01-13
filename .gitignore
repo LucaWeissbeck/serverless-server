@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+.DS_Store
+.pytest_cache
+
+*.iml
+
+# jetbrains IDE stuff
+*.iml
+.idea/
+
+# ms IDE stuff
+*.code-workspace
+.history
+.vscode
+
+.jupyter_releaser_checkout
